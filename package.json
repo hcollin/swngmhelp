@@ -18,7 +18,7 @@
     "firebase": "^7.14.5",
     "jokits": "^0.4.1",
     "jokits-react": "^0.4.5",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
